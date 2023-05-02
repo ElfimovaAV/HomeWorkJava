@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bd9a911c-6b76-4327-ad5b-7895f7ddfa44" name="Changes" comment="Add solution of home task 3">
-      <change afterPath="$PROJECT_DIR$/src/seminar4/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminar4/tasks/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminar4/tasks/Task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminar4/tasks/Task3.java" afterDir="false" />
+    <list default="true" id="bd9a911c-6b76-4327-ad5b-7895f7ddfa44" name="Changes" comment="Add solution of home task 4">
+      <change afterPath="$PROJECT_DIR$/src/seminar5/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminar5/tasks/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminar5/tasks/Task2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,7 +39,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/Андрей/Documents/Разработчик/Java/HomeTask"
+    "last_opened_file_path": "C:/Users/Андрей/Documents/Разработчик/Java/exceptions"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -73,14 +72,22 @@
       <option name="project" value="LOCAL" />
       <updated>1682627995910</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Add solution of home task 4">
+      <created>1682974256989</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1682974256989</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add solution of home task 1" />
     <MESSAGE value="Add solution of home task 2" />
     <MESSAGE value="Add solution of home task 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add solution of home task 3" />
+    <MESSAGE value="Add solution of home task 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add solution of home task 4" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -89,90 +96,6 @@
           <url>file://$PROJECT_DIR$/src/seminar2/Main.java</url>
           <line>13</line>
           <option name="timeStamp" value="6" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/seminar4/Main.java</url>
-          <line>29</line>
-          <option name="timeStamp" value="7" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/seminar4/Main.java</url>
-          <line>30</line>
-          <option name="timeStamp" value="8" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/seminar4/Main.java</url>
-          <line>31</line>
-          <option name="timeStamp" value="10" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/seminar4/Main.java</url>
-          <line>32</line>
-          <option name="timeStamp" value="11" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/seminar4/Main.java</url>
-          <line>33</line>
-          <option name="timeStamp" value="12" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/seminar4/Main.java</url>
-          <line>34</line>
-          <option name="timeStamp" value="13" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/seminar4/Main.java</url>
-          <line>37</line>
-          <option name="timeStamp" value="14" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/seminar4/Main.java</url>
-          <line>36</line>
-          <option name="timeStamp" value="15" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/seminar4/tasks/Task3.java</url>
-          <line>9</line>
-          <option name="timeStamp" value="17" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/seminar4/tasks/Task3.java</url>
-          <line>10</line>
-          <option name="timeStamp" value="19" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/seminar4/tasks/Task3.java</url>
-          <line>11</line>
-          <option name="timeStamp" value="20" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/seminar4/tasks/Task3.java</url>
-          <line>12</line>
-          <option name="timeStamp" value="21" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/seminar4/tasks/Task3.java</url>
-          <line>13</line>
-          <option name="timeStamp" value="22" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/seminar4/tasks/Task3.java</url>
-          <line>14</line>
-          <option name="timeStamp" value="23" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/seminar4/tasks/Task3.java</url>
-          <line>15</line>
-          <option name="timeStamp" value="24" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/seminar4/tasks/Task3.java</url>
-          <line>8</line>
-          <properties class="seminar4.tasks.Task3" method="sumOfElements">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="16" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
